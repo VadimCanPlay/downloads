@@ -1,0 +1,39 @@
+html{
+    background-color: gray;
+    color: white;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#login{
+    text-align: center
+}
+#inputtext{
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    margin: 4px;
+    padding: 10px 32px;
+}
+#buttonlogin{
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: gray;
+    padding: 5px 20px;
+    margin: 4px
+}
+#tip{
+    margin: 2px;
+    font-size: 15px;
+}
+#misc{
+    text-align: center;
+}
+#bak{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
